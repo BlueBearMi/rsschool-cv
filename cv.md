@@ -1,5 +1,6 @@
 # My CV
-1. ## My name is Liudmila Loban
+1. #### My name is Liudmila Loban
+I am from Minsk, Belarus.
 2. My contacts:
 * GitHub & Discord: @BlueBearMi
 * Telegram: @magnoliaxsoulangeana
