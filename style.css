@@ -1,0 +1,35 @@
+.header{
+    width: 685px;
+    height: 65px;
+}
+.Topic{
+        color:  rgb(165, 53, 109);
+        text-align: center;
+}
+.main{
+    width: 685px;
+    height: 350px;
+    padding: 15px;
+    text-align: left;
+    background-color: rgb(172, 90, 131);
+
+}
+#acent{
+   color: rgb(255, 220, 238);
+   font-style: italic;
+   }
+
+.footer{
+    width: 671px;
+    height: 212px;
+        padding: 20px;
+    margin: 0px;
+    border: 2px solid rgb(172, 90, 131);
+    background: linear-gradient(rgb(172, 90, 131), white)
+;}
+.Contacts{
+background-color: aliceblue;
+color: darkmagenta;
+margin: 1px 200px;
+width: 310px;
+}

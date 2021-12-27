@@ -1,1 +1,1 @@
-https://BlueBearMi.github.io/rsschool-cv/cv
+https://BlueBearMi.github.io/rsschool-cv/
