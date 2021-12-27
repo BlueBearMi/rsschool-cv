@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BlueBearMi.github.io/rsschool-cv/cv
